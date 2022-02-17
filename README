@@ -1,0 +1,9 @@
+A datas table with order data has been created. Completed tasks:
+
+1. Print the order number, order date and quantity for each order that the seller sold under the number: 5002;
+
+2. Print the unique seller id(salesman_id). Use distinct
+
+3. Print in order the data about the order date, seller id, order number, quantity
+
+4. Print orders between 70001 and 70007(use between, and)
